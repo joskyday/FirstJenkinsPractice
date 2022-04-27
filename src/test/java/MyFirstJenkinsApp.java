@@ -5,4 +5,12 @@ public class MyFirstJenkinsApp {
         //this is added again
         //again
     }
+
+
+    static {
+        System.out.println("Group22 have a nice day!");
+//something new
+
+    }
+
 }
