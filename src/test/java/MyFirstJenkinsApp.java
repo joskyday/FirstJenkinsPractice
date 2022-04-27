@@ -9,8 +9,7 @@ public class MyFirstJenkinsApp {
 
     static {
         System.out.println("Group22 have a nice day!");
-//something new
-        //and this
+
 
     }
 
