@@ -4,6 +4,7 @@ public class MyFirstJenkinsApp {
         //this is added
         //this is added again
         //again
+        //send email report
     }
 
 
