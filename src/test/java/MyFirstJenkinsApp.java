@@ -5,7 +5,7 @@ public class MyFirstJenkinsApp {
         //this is added again
         //again
         //send email report
-        System.out.println("Hello again!");
+        System.out.println("Hello again! ");
     }
 
 
